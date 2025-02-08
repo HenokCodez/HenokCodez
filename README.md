@@ -19,4 +19,7 @@ Let’s Connect!
 
 🤝 Open to cool collaborations & meme-sharing.  
 
+![Henok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=henokbinayew&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+
 💻 Code. Debug. Repeat.
